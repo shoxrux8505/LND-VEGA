@@ -1,0 +1,11 @@
+@media (max-width:395px){
+    nav{
+      display: none;
+    }
+}
+@media (max-width:768px){
+    nav{
+        width: 100%;
+        
+    }
+}
